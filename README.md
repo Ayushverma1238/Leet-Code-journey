@@ -5,6 +5,7 @@ This is how my LEET CODE Journery is going on.
 ## Array
 |  |
 | ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -14,6 +15,7 @@ This is how my LEET CODE Journery is going on.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -28,6 +30,7 @@ This is how my LEET CODE Journery is going on.
 ## Matrix
 |  |
 | ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
