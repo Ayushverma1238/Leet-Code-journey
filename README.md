@@ -7,6 +7,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -46,10 +47,12 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Brainteaser
 |  |
 | ------- |
