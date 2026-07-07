@@ -57,6 +57,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
