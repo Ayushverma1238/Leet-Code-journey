@@ -80,6 +80,7 @@ This is how my LEET CODE Journery is going on.
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -108,6 +109,7 @@ This is how my LEET CODE Journery is going on.
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -126,5 +128,6 @@ This is how my LEET CODE Journery is going on.
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
