@@ -75,10 +75,12 @@ This is how my LEET CODE Journery is going on.
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -106,6 +108,7 @@ This is how my LEET CODE Journery is going on.
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Greedy
@@ -120,4 +123,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
