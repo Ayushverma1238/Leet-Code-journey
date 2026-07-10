@@ -15,11 +15,13 @@ This is how my LEET CODE Journery is going on.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ This is how my LEET CODE Journery is going on.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -68,6 +71,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -81,6 +85,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -105,11 +110,13 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +129,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
