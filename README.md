@@ -15,6 +15,7 @@ This is how my LEET CODE Journery is going on.
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -73,6 +74,7 @@ This is how my LEET CODE Journery is going on.
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -166,5 +168,6 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
