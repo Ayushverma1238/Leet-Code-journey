@@ -74,6 +74,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
+| [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
