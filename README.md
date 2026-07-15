@@ -73,6 +73,7 @@ This is how my LEET CODE Journery is going on.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -129,6 +130,7 @@ This is how my LEET CODE Journery is going on.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -189,4 +191,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
