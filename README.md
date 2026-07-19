@@ -119,6 +119,7 @@ This is how my LEET CODE Journery is going on.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -166,6 +167,7 @@ This is how my LEET CODE Journery is going on.
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
@@ -215,4 +217,12 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
