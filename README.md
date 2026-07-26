@@ -6,6 +6,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
@@ -83,6 +84,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -154,6 +156,7 @@ This is how my LEET CODE Journery is going on.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
