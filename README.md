@@ -135,6 +135,7 @@ This is how my LEET CODE Journery is going on.
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
@@ -166,6 +167,7 @@ This is how my LEET CODE Journery is going on.
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -249,4 +251,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
