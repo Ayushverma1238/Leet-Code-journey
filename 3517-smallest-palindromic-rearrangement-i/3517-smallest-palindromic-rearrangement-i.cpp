@@ -1,23 +1,15 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        sort(s.begin(), s.end());
-        string start = "", end = "";
-        int i = 0;
-        int n = s.size();
-        string midd = "";
-        while(i < n){
-            if(s[i] == s[i+1]){
-                start += s[i];
-                end += s[i];
-                i+=2;
-            }else {
-                midd += s[i];
-                i++;
-            }
+        int mid = s.size()/2;
+        string half = s.substr(0, mid);
+        string x = "";
+        if(s.size() % 2 != 0){
+            x += s[mid];
         }
-        reverse(end.begin(), end.end());
-        return start +  midd + end;
-    
+        sort(half.begin(), half.end());
+        string ans= half + x;
+        reverse(half.begin(), half.end());
+        return ans + half;
     }
 };
