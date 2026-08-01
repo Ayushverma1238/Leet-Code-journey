@@ -133,6 +133,7 @@ This is how my LEET CODE Journery is going on.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0006-zigzag-conversion) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
