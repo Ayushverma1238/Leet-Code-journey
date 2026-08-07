@@ -168,6 +168,7 @@ This is how my LEET CODE Journery is going on.
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3310-remove-methods-from-project) |
@@ -176,6 +177,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -298,4 +300,16 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
