@@ -157,6 +157,7 @@ This is how my LEET CODE Journery is going on.
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1328-break-a-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1328-break-a-palindrome) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -234,6 +235,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1328-break-a-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
