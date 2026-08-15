@@ -37,6 +37,7 @@ This is how my LEET CODE Journery is going on.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,6 +129,7 @@ This is how my LEET CODE Journery is going on.
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
