@@ -8,6 +8,7 @@ This is how my LEET CODE Journery is going on.
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
@@ -107,6 +108,7 @@ This is how my LEET CODE Journery is going on.
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
