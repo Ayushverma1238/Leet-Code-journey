@@ -44,6 +44,7 @@ This is how my LEET CODE Journery is going on.
 | [3683-earliest-time-to-finish-one-task](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3708-longest-fibonacci-subarray) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -250,6 +251,7 @@ This is how my LEET CODE Journery is going on.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
