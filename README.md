@@ -27,6 +27,7 @@ This is how my LEET CODE Journery is going on.
 | [1872-stone-game-viii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -260,6 +261,7 @@ This is how my LEET CODE Journery is going on.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -282,6 +284,7 @@ This is how my LEET CODE Journery is going on.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1927-sum-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1927-sum-game) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -292,6 +295,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
