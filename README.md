@@ -30,6 +30,7 @@ This is how my LEET CODE Journery is going on.
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -262,6 +263,7 @@ This is how my LEET CODE Journery is going on.
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -350,6 +352,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
+| [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
