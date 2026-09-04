@@ -53,6 +53,7 @@ This is how my LEET CODE Journery is going on.
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -207,6 +208,7 @@ This is how my LEET CODE Journery is going on.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Trie
 |  |
 | ------- |
@@ -284,6 +286,7 @@ This is how my LEET CODE Journery is going on.
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +335,7 @@ This is how my LEET CODE Journery is going on.
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
 | ------- |
