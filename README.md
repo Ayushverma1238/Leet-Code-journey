@@ -191,6 +191,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
@@ -233,6 +234,7 @@ This is how my LEET CODE Journery is going on.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -381,6 +383,7 @@ This is how my LEET CODE Journery is going on.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
@@ -459,4 +462,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
