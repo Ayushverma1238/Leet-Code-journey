@@ -192,6 +192,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
@@ -237,6 +238,7 @@ This is how my LEET CODE Journery is going on.
 | [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
