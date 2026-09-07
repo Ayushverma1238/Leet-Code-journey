@@ -196,6 +196,7 @@ This is how my LEET CODE Journery is going on.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1328-break-a-palindrome) |
@@ -242,6 +243,7 @@ This is how my LEET CODE Journery is going on.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
