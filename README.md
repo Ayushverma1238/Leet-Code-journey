@@ -143,6 +143,7 @@ This is how my LEET CODE Journery is going on.
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -319,6 +320,7 @@ This is how my LEET CODE Journery is going on.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -353,6 +355,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1291-sequential-digits) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
