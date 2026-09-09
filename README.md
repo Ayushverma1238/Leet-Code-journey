@@ -6,6 +6,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
+| [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
@@ -125,6 +126,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
+| [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
@@ -164,6 +166,7 @@ This is how my LEET CODE Journery is going on.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
