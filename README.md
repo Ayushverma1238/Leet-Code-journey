@@ -240,6 +240,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -435,11 +436,13 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
