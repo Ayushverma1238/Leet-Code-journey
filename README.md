@@ -47,6 +47,7 @@ This is how my LEET CODE Journery is going on.
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -309,6 +310,7 @@ This is how my LEET CODE Journery is going on.
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -368,6 +370,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [1291-sequential-digits](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1291-sequential-digits) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -428,6 +431,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
