@@ -136,6 +136,7 @@ This is how my LEET CODE Journery is going on.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
+| [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
@@ -507,4 +508,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
