@@ -24,6 +24,7 @@ This is how my LEET CODE Journery is going on.
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1563-stone-game-v) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -69,6 +70,7 @@ This is how my LEET CODE Journery is going on.
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -268,6 +270,7 @@ This is how my LEET CODE Journery is going on.
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -308,6 +311,7 @@ This is how my LEET CODE Journery is going on.
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -378,6 +382,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
