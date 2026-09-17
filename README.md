@@ -8,6 +8,7 @@ This is how my LEET CODE Journery is going on.
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
 | [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
@@ -109,6 +110,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
+| [0498-diagonal-traverse](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -425,6 +427,7 @@ This is how my LEET CODE Journery is going on.
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
