@@ -144,6 +144,7 @@ This is how my LEET CODE Journery is going on.
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1563-stone-game-v) |
@@ -532,4 +533,5 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
