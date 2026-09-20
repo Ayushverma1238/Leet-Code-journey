@@ -235,6 +235,7 @@ This is how my LEET CODE Journery is going on.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -435,6 +436,7 @@ This is how my LEET CODE Journery is going on.
 | [0498-diagonal-traverse](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
