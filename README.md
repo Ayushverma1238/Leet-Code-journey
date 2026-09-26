@@ -82,6 +82,7 @@ This is how my LEET CODE Journery is going on.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -256,6 +257,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -291,6 +293,7 @@ This is how my LEET CODE Journery is going on.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
@@ -315,6 +318,7 @@ This is how my LEET CODE Journery is going on.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -470,12 +474,14 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## DP on Trees
