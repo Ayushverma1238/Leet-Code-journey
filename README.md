@@ -39,6 +39,7 @@ This is how my LEET CODE Journery is going on.
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -73,6 +74,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -106,6 +108,7 @@ This is how my LEET CODE Journery is going on.
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -305,6 +308,7 @@ This is how my LEET CODE Journery is going on.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -363,6 +367,7 @@ This is how my LEET CODE Journery is going on.
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
