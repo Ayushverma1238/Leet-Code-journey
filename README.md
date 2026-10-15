@@ -569,6 +569,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0176-second-highest-salary) |
+| [0577-employee-bonus](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0577-employee-bonus) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1527-patients-with-a-condition](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
