@@ -565,4 +565,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
