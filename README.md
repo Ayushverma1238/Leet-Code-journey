@@ -15,6 +15,7 @@ This is how my LEET CODE Journery is going on.
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [0835-image-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
