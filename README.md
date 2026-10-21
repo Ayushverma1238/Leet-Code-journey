@@ -49,6 +49,7 @@ This is how my LEET CODE Journery is going on.
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -415,6 +416,7 @@ This is how my LEET CODE Journery is going on.
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1872-stone-game-viii) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3903-smallest-stable-index-i) |
