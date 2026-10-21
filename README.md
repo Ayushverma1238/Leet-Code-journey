@@ -34,6 +34,7 @@ This is how my LEET CODE Journery is going on.
 | [1872-stone-game-viii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
