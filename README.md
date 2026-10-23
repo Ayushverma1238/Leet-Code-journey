@@ -17,6 +17,7 @@ This is how my LEET CODE Journery is going on.
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
@@ -116,6 +117,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -160,6 +162,7 @@ This is how my LEET CODE Journery is going on.
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -317,6 +320,7 @@ This is how my LEET CODE Journery is going on.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -456,10 +460,12 @@ This is how my LEET CODE Journery is going on.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Combinatorics
 |  |
@@ -578,6 +584,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Indexed Tree
 |  |
@@ -598,4 +605,8 @@ This is how my LEET CODE Journery is going on.
 | [1211-queries-quality-and-percentage](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1527-patients-with-a-condition) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
