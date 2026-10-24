@@ -605,6 +605,7 @@ This is how my LEET CODE Journery is going on.
 | [1148-article-views-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1158-market-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1527-patients-with-a-condition) |
 ## K-D Tree
