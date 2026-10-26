@@ -18,6 +18,7 @@ This is how my LEET CODE Journery is going on.
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1254-number-of-closed-islands) |
@@ -402,6 +403,7 @@ This is how my LEET CODE Journery is going on.
 | [0763-partition-labels](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
