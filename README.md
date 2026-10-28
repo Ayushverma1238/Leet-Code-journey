@@ -20,6 +20,7 @@ This is how my LEET CODE Journery is going on.
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
@@ -177,6 +178,7 @@ This is how my LEET CODE Journery is going on.
 | [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -216,6 +218,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -319,6 +322,7 @@ This is how my LEET CODE Journery is going on.
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0940-distinct-subsequences-ii) |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
@@ -375,6 +379,7 @@ This is how my LEET CODE Journery is going on.
 | [0763-partition-labels](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -538,6 +543,7 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0046-permutations](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0047-permutations-ii) |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -638,4 +644,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
