@@ -5,6 +5,7 @@ This is how my LEET CODE Journery is going on.
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
 | [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
@@ -533,6 +534,7 @@ This is how my LEET CODE Journery is going on.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0046-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
