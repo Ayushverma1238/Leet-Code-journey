@@ -6,6 +6,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
 | [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
@@ -336,6 +337,7 @@ This is how my LEET CODE Journery is going on.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0047-permutations-ii) |
 | [0539-minimum-time-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
@@ -535,6 +537,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
