@@ -41,6 +41,7 @@ This is how my LEET CODE Journery is going on.
 | [1872-stone-game-viii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -356,6 +357,7 @@ This is how my LEET CODE Journery is going on.
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -423,6 +425,7 @@ This is how my LEET CODE Journery is going on.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1927-sum-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1927-sum-game) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -518,11 +521,13 @@ This is how my LEET CODE Journery is going on.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Segment Tree
 |  |
 | ------- |
