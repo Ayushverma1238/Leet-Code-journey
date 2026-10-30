@@ -259,6 +259,7 @@ This is how my LEET CODE Journery is going on.
 | [0006-zigzag-conversion](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0115-distinct-subsequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
@@ -295,6 +296,7 @@ This is how my LEET CODE Journery is going on.
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
 ## String Matching
 |  |
@@ -376,6 +378,7 @@ This is how my LEET CODE Journery is going on.
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0763-partition-labels) |
@@ -604,6 +607,7 @@ This is how my LEET CODE Journery is going on.
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
 ## Doubly-Linked List
 |  |
