@@ -653,6 +653,7 @@ This is how my LEET CODE Journery is going on.
 | [1251-average-selling-price](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1527-patients-with-a-condition) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## K-D Tree
