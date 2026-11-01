@@ -37,6 +37,7 @@ This is how my LEET CODE Journery is going on.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1563-stone-game-v) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1872-stone-game-viii) |
@@ -254,6 +255,7 @@ This is how my LEET CODE Journery is going on.
 | [0763-partition-labels](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -365,6 +367,7 @@ This is how my LEET CODE Journery is going on.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -399,6 +402,7 @@ This is how my LEET CODE Journery is going on.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
