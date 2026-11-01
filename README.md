@@ -8,6 +8,7 @@ This is how my LEET CODE Journery is going on.
 | [0046-permutations](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0063-unique-paths-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0498-diagonal-traverse) |
@@ -172,6 +173,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0539-minimum-time-difference) |
