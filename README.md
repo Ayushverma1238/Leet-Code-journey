@@ -653,6 +653,7 @@ This is how my LEET CODE Journery is going on.
 | [0511-game-play-analysis-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1068-product-sales-analysis-i) |
