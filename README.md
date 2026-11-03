@@ -86,6 +86,7 @@ This is how my LEET CODE Journery is going on.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -212,6 +213,7 @@ This is how my LEET CODE Journery is going on.
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3857-minimum-cost-to-split-into-ones) |
