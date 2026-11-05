@@ -32,6 +32,7 @@ This is how my LEET CODE Journery is going on.
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -99,6 +100,7 @@ This is how my LEET CODE Journery is going on.
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -260,6 +262,7 @@ This is how my LEET CODE Journery is going on.
 | [0763-partition-labels](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
 | [1023-camelcase-matching](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1023-camelcase-matching) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -369,6 +372,7 @@ This is how my LEET CODE Journery is going on.
 | [1288-remove-covered-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
