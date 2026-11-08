@@ -60,6 +60,7 @@ This is how my LEET CODE Journery is going on.
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -384,6 +385,7 @@ This is how my LEET CODE Journery is going on.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -420,6 +422,7 @@ This is how my LEET CODE Journery is going on.
 | [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -494,6 +497,7 @@ This is how my LEET CODE Journery is going on.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
