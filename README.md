@@ -67,6 +67,7 @@ This is how my LEET CODE Journery is going on.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
