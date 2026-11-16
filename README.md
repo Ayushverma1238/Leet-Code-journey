@@ -302,6 +302,7 @@ This is how my LEET CODE Journery is going on.
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -560,6 +561,7 @@ This is how my LEET CODE Journery is going on.
 | [0498-diagonal-traverse](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2295-replace-elements-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
