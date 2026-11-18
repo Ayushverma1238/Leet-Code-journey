@@ -306,6 +306,7 @@ This is how my LEET CODE Journery is going on.
 | [2409-count-days-spent-together](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
