@@ -62,6 +62,7 @@ This is how my LEET CODE Journery is going on.
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -398,6 +399,7 @@ This is how my LEET CODE Journery is going on.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -475,6 +477,7 @@ This is how my LEET CODE Journery is going on.
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
