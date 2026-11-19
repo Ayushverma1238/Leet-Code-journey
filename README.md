@@ -275,6 +275,7 @@ This is how my LEET CODE Journery is going on.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -307,6 +308,7 @@ This is how my LEET CODE Journery is going on.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -477,6 +479,7 @@ This is how my LEET CODE Journery is going on.
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
