@@ -73,6 +73,7 @@ This is how my LEET CODE Journery is going on.
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -313,6 +314,7 @@ This is how my LEET CODE Journery is going on.
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -344,6 +346,7 @@ This is how my LEET CODE Journery is going on.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -448,6 +451,7 @@ This is how my LEET CODE Journery is going on.
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -616,6 +620,7 @@ This is how my LEET CODE Journery is going on.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
