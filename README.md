@@ -198,6 +198,7 @@ This is how my LEET CODE Journery is going on.
 | [0789-escape-the-ghosts](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0810-chalkboard-xor-game) |
 | [0836-rectangle-overlap](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0836-rectangle-overlap) |
+| [0866-prime-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
@@ -546,6 +547,7 @@ This is how my LEET CODE Journery is going on.
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -738,4 +740,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1352-product-of-the-last-k-numbers) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
