@@ -32,6 +32,7 @@ This is how my LEET CODE Journery is going on.
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -201,6 +202,7 @@ This is how my LEET CODE Journery is going on.
 | [0973-k-closest-points-to-origin](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0973-k-closest-points-to-origin) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1362-closest-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1406-stone-game-iii) |
@@ -511,6 +513,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1872-stone-game-viii) |
@@ -671,6 +674,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1797-design-authentication-manager](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1797-design-authentication-manager) |
 ## Doubly-Linked List
 |  |
@@ -730,4 +734,8 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
