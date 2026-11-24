@@ -50,6 +50,7 @@ This is how my LEET CODE Journery is going on.
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2057-smallest-index-with-equal-value](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2195-append-k-integers-with-minimal-sum) |
