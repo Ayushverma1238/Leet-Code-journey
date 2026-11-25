@@ -107,6 +107,7 @@ This is how my LEET CODE Journery is going on.
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@ This is how my LEET CODE Journery is going on.
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -470,6 +472,7 @@ This is how my LEET CODE Journery is going on.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3731-find-missing-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3934-smallest-unique-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -750,4 +753,16 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0866-prime-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
