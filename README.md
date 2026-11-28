@@ -27,6 +27,7 @@ This is how my LEET CODE Journery is going on.
 | [1140-stone-game-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1260-shift-2d-grid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -443,6 +444,7 @@ This is how my LEET CODE Journery is going on.
 | [0767-reorganize-string](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -487,6 +489,7 @@ This is how my LEET CODE Journery is going on.
 | [0948-bag-of-tokens](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/0948-bag-of-tokens) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
