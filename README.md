@@ -66,6 +66,7 @@ This is how my LEET CODE Journery is going on.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2747-count-zero-request-servers) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -226,6 +227,7 @@ This is how my LEET CODE Journery is going on.
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2761-prime-pairs-with-target-sum) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -550,6 +552,7 @@ This is how my LEET CODE Journery is going on.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/1291-sequential-digits) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2761-prime-pairs-with-target-sum) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -565,6 +568,7 @@ This is how my LEET CODE Journery is going on.
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/2761-prime-pairs-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushverma1238/Leet-Code-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
